@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: silver;
+    font-weight: bold;
+    text-align: center;
+    color: teal;
+    margin: 2em;
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 2em;
+}
+
+.countdown-container {
+    display: flex;
+    justify-content: space-evenly
+}
+
+p {
+    font-size: 4em;
+    color: cornflowerblue;
+}
+
+span {
+    color: black;
+    text-transform: lowercase;
+}
+
